@@ -13,3 +13,5 @@ If you don't already have access to a commercial package like ArcGIS or MapInfo 
 For an interactive approach to the warping that map projections do, take a look at https://thetruesize.com
 
 For those of you interested in R, the textbook _Urban Analytics_ has some great examples or problem-driven geospatial processing to look through - you can get the source code here: https://github.com/alexsingleton/urban_analytics and a copy of the textbook ($) here: https://au.sagepub.com/en-gb/oce/urban-analytics/book249267  
+
+For a massive list of other geospatial resources, checkout `Awesome Geospatial`: https://github.com/sacridini/Awesome-Geospatial
