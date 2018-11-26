@@ -1,4 +1,4 @@
-# Core skills program - week 11 - Geospatial data and pitching for succvess
+# Core skills program - week 11 - Geospatial data and pitching for success
 
 The aim of today's session will be to introduce the basics of working with spatial data in a data science context. We'll take a look at how you can use simple extensions to Pandas to incorporate data with spatial attributes, look at the different types of spatial data, and show how these can be used in a feature extraction pipeline for machine learning. 
 
