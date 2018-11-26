@@ -4,9 +4,11 @@ channels:
   - conda-forge  
 
 dependencies:
+  - requests
   - numpy
   - pandas
   - matplotlib
+  - cartopy
   - seaborn
   - shapely
   - fiona
