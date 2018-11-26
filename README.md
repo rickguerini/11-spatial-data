@@ -6,4 +6,4 @@ You should aim to understand some of the basic spatial data gotchas (looking at 
 
 ## Pre-session Reading & Resources
 
-
+If you don't already have access to a commercial package like ArcGIS or MapInfo through your work and want a good free GIS package then QGIS is definately worth a look: https://www.qgis.org. It will do most of what the big commercial packages will do and is really useful as a geospatial data viewer.
